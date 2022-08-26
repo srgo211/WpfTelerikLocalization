@@ -1,0 +1,54 @@
+Microsoft (R) Build Engine ўҐабЁЁ 4.8.3752.0
+[Microsoft .NET Framework ўҐабЁЁ 4.0.30319.42000]
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+Џ®бва®Ґ­ЁҐ ­ з в® 26.08.2022 20:04:27.
+Џа®ҐЄв "C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\Edited_WPF.csproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Clean;Rebuild).
+CoreClean:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "obj\Release\".
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "bin\Release\".
+ResolveAssemblyReferences:
+  Ѓг¤Ґв б®§¤ ­ бЇЁб®Є ЁбЄ«озҐ­Ё© Їа®дЁ«п TargetFramework.
+Џа®ҐЄв "C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\Edited_WPF.csproj" (1) ўлЇ®«­пҐв Ї®бва®Ґ­ЁҐ "C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\Edited_WPF_d0o53gnk_wpftmp.csproj" (2) ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл _CompileTemporaryAssembly).
+CoreCompile:
+  C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /platform:AnyCPU /errorreport:prompt /warn:4 /define:TRACE /highentropyva- /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\Microsoft.CSharp.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\PresentationCore.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\PresentationFramework.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Data.DataSetExtensions.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Data.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Xaml.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Xml.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Xml.Linq.dll" /reference:"C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.dll" /reference:"C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.GridView.dll" /reference:"C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.Input.dll" /reference:"C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Data.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\WindowsBase.dll" /debug:pdbonly /filealign:512 /optimize+ /out:obj\Release\WpfApplication1.exe /target:winexe /utf8output App.xaml.cs MainWindow.xaml.cs MyColumnsBindingBehavior.cs MyDataContext.cs Properties\AssemblyInfo.cs C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\obj\Release\MainWindow.g.cs C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\obj\Release\App.g.cs C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\obj\Release\GeneratedInternalTypeHelper.g.cs
+Џ®бва®Ґ­ЁҐ Їа®ҐЄв  "C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\Edited_WPF_d0o53gnk_wpftmp.csproj" § ўҐаиҐ­® (жҐ«ҐўлҐ ®ЎкҐЄвл _CompileTemporaryAssembly).
+MarkupCompilePass2:
+  “бЇҐи­ п ЈҐ­Ґа жЁп д ©«®ў BAML Ё«Ё Ёбе®¤­®Ј® Є®¤  ў MarkupCompilePass2.
+CleanupTemporaryTargetAssembly:
+  ” ©« "obj\Release\WpfApplication1.exe" г¤ «пҐвбп.
+CoreCompile:
+  C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /platform:AnyCPU /errorreport:prompt /warn:4 /define:TRACE /highentropyva- /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\Microsoft.CSharp.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\PresentationCore.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\PresentationFramework.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Data.DataSetExtensions.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Data.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Xaml.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Xml.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Xml.Linq.dll" /reference:"C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.dll" /reference:"C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.GridView.dll" /reference:"C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.Input.dll" /reference:"C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Data.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\WindowsBase.dll" /debug:pdbonly /filealign:512 /optimize+ /out:obj\Release\WpfApplication1.exe /resource:obj\Release\WpfApplication1.g.resources /target:winexe /utf8output App.xaml.cs MainWindow.xaml.cs MyColumnsBindingBehavior.cs MyDataContext.cs Properties\AssemblyInfo.cs C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\obj\Release\MainWindow.g.cs C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\obj\Release\App.g.cs C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\obj\Release\GeneratedInternalTypeHelper.g.cs "C:\Users\Administrator\AppData\Local\Temp\.NETFramework,Version=v4.0,Profile=Client.AssemblyAttributes.cs"
+_CopyFilesMarkedCopyLocal:
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.dll" ў "bin\Release\Telerik.Windows.Controls.dll".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.GridView.dll" ў "bin\Release\Telerik.Windows.Controls.GridView.dll".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.Input.dll" ў "bin\Release\Telerik.Windows.Controls.Input.dll".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Data.dll" ў "bin\Release\Telerik.Windows.Data.dll".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.xml" ў "bin\Release\Telerik.Windows.Controls.xml".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.GridView.xml" ў "bin\Release\Telerik.Windows.Controls.GridView.xml".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Controls.Input.xml" ў "bin\Release\Telerik.Windows.Controls.Input.xml".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\Telerik.Windows.Data.xml" ў "bin\Release\Telerik.Windows.Data.xml".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "bin\Release\de".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\de\Telerik.Windows.Controls.resources.dll" ў "bin\Release\de\Telerik.Windows.Controls.resources.dll".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "bin\Release\es".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\es\Telerik.Windows.Controls.resources.dll" ў "bin\Release\es\Telerik.Windows.Controls.resources.dll".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "bin\Release\fr".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\fr\Telerik.Windows.Controls.resources.dll" ў "bin\Release\fr\Telerik.Windows.Controls.resources.dll".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "bin\Release\it".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\it\Telerik.Windows.Controls.resources.dll" ў "bin\Release\it\Telerik.Windows.Controls.resources.dll".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "bin\Release\nl".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\nl\Telerik.Windows.Controls.resources.dll" ў "bin\Release\nl\Telerik.Windows.Controls.resources.dll".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "bin\Release\tr".
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "C:\Program Files (x86)\Progress\Telerik UI for WPF R2 2022\Binaries\WPF40\tr\Telerik.Windows.Controls.resources.dll" ў "bin\Release\tr\Telerik.Windows.Controls.resources.dll".
+CopyFilesToOutputDirectory:
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "obj\Release\WpfApplication1.exe" ў "bin\Release\WpfApplication1.exe".
+  Edited_WPF -> C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\bin\Release\WpfApplication1.exe
+  Љ®ЇЁа®ў ­ЁҐ д ©«  Ё§ "obj\Release\WpfApplication1.pdb" ў "bin\Release\WpfApplication1.pdb".
+Џ®бва®Ґ­ЁҐ Їа®ҐЄв  "C:\Users\Administrator\Documents\xaml-sdk\GridView\BindingColumnsFromViewModel\Edited_WPF.csproj" § ўҐаиҐ­® (жҐ«ҐўлҐ ®ЎкҐЄвл Clean;Rebuild).
+
+Џ®бва®Ґ­ЁҐ гбЇҐи­® § ўҐаиҐ­®.
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 0
+
+‡ ва зҐ­­®Ґ ўаҐ¬п: 00:00:02.63
